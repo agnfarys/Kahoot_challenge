@@ -1,4 +1,4 @@
-# 🟣 Kahoot_challenge 🟪
+# 🟣 Kahoot! Challenge 🟪
 Contains Kahoot! auto-completion task for summer internship program.
 <div align="center">
   <kbd>
